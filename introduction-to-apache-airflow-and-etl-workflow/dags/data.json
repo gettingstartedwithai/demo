@@ -1,0 +1,102 @@
+[
+  {
+    "House": 1,
+    "SquareFootage": 1000,
+    "Price": 100000
+  },
+  {
+    "House": 2,
+    "SquareFootage": 1200,
+    "Price": 150000
+  },
+  {
+    "House": 3,
+    "SquareFootage": 1500,
+    "Price": 200000
+  },
+  {
+    "House": 4,
+    "SquareFootage": 1800,
+    "Price": 250000
+  },
+  {
+    "House": 5,
+    "SquareFootage": 2200,
+    "Price": 300000
+  },
+  {
+    "House": 6,
+    "SquareFootage": 1350,
+    "Price": 175000
+  },
+  {
+    "House": 7,
+    "SquareFootage": 2000,
+    "Price": 225000
+  },
+  {
+    "House": 8,
+    "SquareFootage": 1750,
+    "Price": 210000
+  },
+  {
+    "House": 9,
+    "SquareFootage": 1650,
+    "Price": 195000
+  },
+  {
+    "House": 10,
+    "SquareFootage": 1900,
+    "Price": 240000
+  },
+  {
+    "House": 11,
+    "SquareFootage": 1300,
+    "Price": 160000
+  },
+  {
+    "House": 12,
+    "SquareFootage": 2500,
+    "Price": 325000
+  },
+  {
+    "House": 13,
+    "SquareFootage": 1400,
+    "Price": 170000
+  },
+  {
+    "House": 14,
+    "SquareFootage": 2050,
+    "Price": 235000
+  },
+  {
+    "House": 15,
+    "SquareFootage": 2250,
+    "Price": 275000
+  },
+  {
+    "House": 16,
+    "SquareFootage": 1600,
+    "Price": 190000
+  },
+  {
+    "House": 17,
+    "SquareFootage": 1950,
+    "Price": 230000
+  },
+  {
+    "House": 18,
+    "SquareFootage": 2200,
+    "Price": 300000
+  },
+  {
+    "House": 19,
+    "SquareFootage": 1800,
+    "Price": 250000
+  },
+  {
+    "House": 20,
+    "SquareFootage": 1250,
+    "Price": 145000
+  }
+]
